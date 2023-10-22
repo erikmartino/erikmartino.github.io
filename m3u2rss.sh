@@ -30,7 +30,8 @@ while read l; do
 	<item>
 		<link>$l</link>
 		<guid>$l</guid>
-		<description>$(echo $l | sed -e 's!.*/!!' -e 's/%20/ /g' -e 's/.mp3$//')</description>
+		<title>$(echo $l | sed -e 's!.*/!!' -e 's/%20/ /g' -e 's/.mp3$//')</title>
+		<description>From Archive.org</description>
 		<pubDate>$(date -R)</pubDate>
 		<enclosure url="$l" type="audio/mpeg" length="$(curl -sLI $l | grep Content-Length: | awk '{print $2}' | tr -d '\r\n')" />
 	</item>
