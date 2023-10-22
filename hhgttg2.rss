@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+ <title>HHGTTG</title>
+ <description>HHGTTG</description>
+ <language>en-us</language>
+ <copyright>bbc</copyright>
+ <link>https://erikmartino.github.io/</link>
+ <image>
+   <url>https://erikmartino.github.io/favicon.png</url>
+   <link>https://erikmartino.github.io/</link>
+   <title>HHGTTG</title>
+ </image>
+ <generator>m3u2rss.sh</generator>
+ <ttl>263520</ttl>
+ <lastBuildDate>Sun, 22 Oct 2023 18:24:29 +0200</lastBuildDate>
+ <pubDate>Sun, 22 Oct 2023 18:24:29 +0200</pubDate>
+	<item>
+		<link>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E00%20HHGTTG%20Douglas%20Adams%20%5BBBC%20Boo.mp3</link>
+		<guid>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E00%20HHGTTG%20Douglas%20Adams%20%5BBBC%20Boo.mp3</guid>
+		<description>S01E00 HHGTTG Douglas Adams %5BBBC Boo</description>
+		<pubDate>Sun, 22 Oct 2023 18:24:29 +0200</pubDate>
+		<enclosure url="http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E00%20HHGTTG%20Douglas%20Adams%20%5BBBC%20Boo.mp3" type="audio/mpeg" length="46081152" />
+	</item>
+	<item>
+		<link>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E00%20HHGTTG%20Feedback_%2002%20Mar18.mp3</link>
+		<guid>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E00%20HHGTTG%20Feedback_%2002%20Mar18.mp3</guid>
+		<description>S01E00 HHGTTG Feedback_ 02 Mar18</description>
+		<pubDate>Sun, 22 Oct 2023 18:24:30 +0200</pubDate>
+		<enclosure url="http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E00%20HHGTTG%20Feedback_%2002%20Mar18.mp3" type="audio/mpeg" length="7038749" />
+	</item>
+	<item>
+		<link>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E00%20HHGTTG%20S1%20Primary%20Phase%20%5BIntr.mp3</link>
+		<guid>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E00%20HHGTTG%20S1%20Primary%20Phase%20%5BIntr.mp3</guid>
+		<description>S01E00 HHGTTG S1 Primary Phase %5BIntr</description>
+		<pubDate>Sun, 22 Oct 2023 18:24:30 +0200</pubDate>
+		<enclosure url="http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E00%20HHGTTG%20S1%20Primary%20Phase%20%5BIntr.mp3" type="audio/mpeg" length="2847460" />
+	</item>
+	<item>
+		<link>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E00%20HHGTTG%20S3%20Tertiary%20Phase%20%5BInt.mp3</link>
+		<guid>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E00%20HHGTTG%20S3%20Tertiary%20Phase%20%5BInt.mp3</guid>
+		<description>S01E00 HHGTTG S3 Tertiary Phase %5BInt</description>
+		<pubDate>Sun, 22 Oct 2023 18:24:31 +0200</pubDate>
+		<enclosure url="http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E00%20HHGTTG%20S3%20Tertiary%20Phase%20%5BInt.mp3" type="audio/mpeg" length="4206664" />
+	</item>
+	<item>
+		<link>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E00%20HHGTTG%20Trailer%201.mp3</link>
+		<guid>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E00%20HHGTTG%20Trailer%201.mp3</guid>
+		<description>S01E00 HHGTTG Trailer 1</description>
+		<pubDate>Sun, 22 Oct 2023 18:24:32 +0200</pubDate>
+		<enclosure url="http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E00%20HHGTTG%20Trailer%201.mp3" type="audio/mpeg" length="560360" />
+	</item>
+	<item>
+		<link>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E00%20HHGTTG%20Trailer%202.mp3</link>
+		<guid>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E00%20HHGTTG%20Trailer%202.mp3</guid>
+		<description>S01E00 HHGTTG Trailer 2</description>
+		<pubDate>Sun, 22 Oct 2023 18:24:32 +0200</pubDate>
+		<enclosure url="http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E00%20HHGTTG%20Trailer%202.mp3" type="audio/mpeg" length="4731175" />
+	</item>
+	<item>
+		<link>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E00%20HHGTTG%20Trailer%203.mp3</link>
+		<guid>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E00%20HHGTTG%20Trailer%203.mp3</guid>
+		<description>S01E00 HHGTTG Trailer 3</description>
+		<pubDate>Sun, 22 Oct 2023 18:24:33 +0200</pubDate>
+		<enclosure url="http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E00%20HHGTTG%20Trailer%203.mp3" type="audio/mpeg" length="4186574" />
+	</item>
+	<item>
+		<link>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E00%20HHGTTG%20Website.mp3</link>
+		<guid>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E00%20HHGTTG%20Website.mp3</guid>
+		<description>S01E00 HHGTTG Website</description>
+		<pubDate>Sun, 22 Oct 2023 18:24:34 +0200</pubDate>
+		<enclosure url="http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E00%20HHGTTG%20Website.mp3" type="audio/mpeg" length="811970" />
+	</item>
+	<item>
+		<link>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E00%20HHGTTG%20Your%20Complete%20Guide%20To.mp3</link>
+		<guid>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E00%20HHGTTG%20Your%20Complete%20Guide%20To.mp3</guid>
+		<description>S01E00 HHGTTG Your Complete Guide To</description>
+		<pubDate>Sun, 22 Oct 2023 18:24:35 +0200</pubDate>
+		<enclosure url="http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E00%20HHGTTG%20Your%20Complete%20Guide%20To.mp3" type="audio/mpeg" length="30837648" />
+	</item>
+	<item>
+		<link>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E01%20HHGTTG%20S1%20Primary%20Phase.mp3</link>
+		<guid>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E01%20HHGTTG%20S1%20Primary%20Phase.mp3</guid>
+		<description>S01E01 HHGTTG S1 Primary Phase</description>
+		<pubDate>Sun, 22 Oct 2023 18:24:35 +0200</pubDate>
+		<enclosure url="http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E01%20HHGTTG%20S1%20Primary%20Phase.mp3" type="audio/mpeg" length="27522007" />
+	</item>
+	<item>
+		<link>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E02%20HHGTTG%20S1%20Primary%20Phase.mp3</link>
+		<guid>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E02%20HHGTTG%20S1%20Primary%20Phase.mp3</guid>
+		<description>S01E02 HHGTTG S1 Primary Phase</description>
+		<pubDate>Sun, 22 Oct 2023 18:24:36 +0200</pubDate>
+		<enclosure url="http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E02%20HHGTTG%20S1%20Primary%20Phase.mp3" type="audio/mpeg" length="27231319" />
+	</item>
+	<item>
+		<link>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E03%20HHGTTG%20S1%20Primary%20Phase.mp3</link>
+		<guid>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E03%20HHGTTG%20S1%20Primary%20Phase.mp3</guid>
+		<description>S01E03 HHGTTG S1 Primary Phase</description>
+		<pubDate>Sun, 22 Oct 2023 18:24:37 +0200</pubDate>
+		<enclosure url="http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E03%20HHGTTG%20S1%20Primary%20Phase.mp3" type="audio/mpeg" length="26724055" />
+	</item>
+	<item>
+		<link>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E04%20HHGTTG%20S1%20Primary%20Phase.mp3</link>
+		<guid>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E04%20HHGTTG%20S1%20Primary%20Phase.mp3</guid>
+		<description>S01E04 HHGTTG S1 Primary Phase</description>
+		<pubDate>Sun, 22 Oct 2023 18:24:38 +0200</pubDate>
+		<enclosure url="http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E04%20HHGTTG%20S1%20Primary%20Phase.mp3" type="audio/mpeg" length="28218583" />
+	</item>
+	<item>
+		<link>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E05%20HHGTTG%20S1%20Primary%20Phase.mp3</link>
+		<guid>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E05%20HHGTTG%20S1%20Primary%20Phase.mp3</guid>
+		<description>S01E05 HHGTTG S1 Primary Phase</description>
+		<pubDate>Sun, 22 Oct 2023 18:24:38 +0200</pubDate>
+		<enclosure url="http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E05%20HHGTTG%20S1%20Primary%20Phase.mp3" type="audio/mpeg" length="28483543" />
+	</item>
+	<item>
+		<link>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E06%20HHGTTG%20S1%20Primary%20Phase.mp3</link>
+		<guid>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E06%20HHGTTG%20S1%20Primary%20Phase.mp3</guid>
+		<description>S01E06 HHGTTG S1 Primary Phase</description>
+		<pubDate>Sun, 22 Oct 2023 18:24:39 +0200</pubDate>
+		<enclosure url="http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E06%20HHGTTG%20S1%20Primary%20Phase.mp3" type="audio/mpeg" length="29495383" />
+	</item>
+	<item>
+		<link>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E07%20HHGTTG%20S2%20Secondary%20Phase.mp3</link>
+		<guid>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E07%20HHGTTG%20S2%20Secondary%20Phase.mp3</guid>
+		<description>S01E07 HHGTTG S2 Secondary Phase</description>
+		<pubDate>Sun, 22 Oct 2023 18:24:40 +0200</pubDate>
+		<enclosure url="http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E07%20HHGTTG%20S2%20Secondary%20Phase.mp3" type="audio/mpeg" length="28663481" />
+	</item>
+	<item>
+		<link>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E08%20HHGTTG%20S2%20Secondary%20Phase.mp3</link>
+		<guid>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E08%20HHGTTG%20S2%20Secondary%20Phase.mp3</guid>
+		<description>S01E08 HHGTTG S2 Secondary Phase</description>
+		<pubDate>Sun, 22 Oct 2023 18:24:41 +0200</pubDate>
+		<enclosure url="http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E08%20HHGTTG%20S2%20Secondary%20Phase.mp3" type="audio/mpeg" length="28285241" />
+	</item>
+	<item>
+		<link>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E09%20HHGTTG%20S2%20Secondary%20Phase.mp3</link>
+		<guid>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E09%20HHGTTG%20S2%20Secondary%20Phase.mp3</guid>
+		<description>S01E09 HHGTTG S2 Secondary Phase</description>
+		<pubDate>Sun, 22 Oct 2023 18:24:41 +0200</pubDate>
+		<enclosure url="http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E09%20HHGTTG%20S2%20Secondary%20Phase.mp3" type="audio/mpeg" length="28535225" />
+	</item>
+	<item>
+		<link>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E10%20HHGTTG%20S2%20Secondary%20Phase.mp3</link>
+		<guid>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E10%20HHGTTG%20S2%20Secondary%20Phase.mp3</guid>
+		<description>S01E10 HHGTTG S2 Secondary Phase</description>
+		<pubDate>Sun, 22 Oct 2023 18:24:42 +0200</pubDate>
+		<enclosure url="http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E10%20HHGTTG%20S2%20Secondary%20Phase.mp3" type="audio/mpeg" length="28377785" />
+	</item>
+	<item>
+		<link>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E11%20HHGTTG%20S2%20Secondary%20Phase.mp3</link>
+		<guid>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E11%20HHGTTG%20S2%20Secondary%20Phase.mp3</guid>
+		<description>S01E11 HHGTTG S2 Secondary Phase</description>
+		<pubDate>Sun, 22 Oct 2023 18:24:43 +0200</pubDate>
+		<enclosure url="http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E11%20HHGTTG%20S2%20Secondary%20Phase.mp3" type="audio/mpeg" length="28638521" />
+	</item>
+	<item>
+		<link>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E12%20HHGTTG%20S2%20Secondary%20Phase.mp3</link>
+		<guid>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E12%20HHGTTG%20S2%20Secondary%20Phase.mp3</guid>
+		<description>S01E12 HHGTTG S2 Secondary Phase</description>
+		<pubDate>Sun, 22 Oct 2023 18:24:44 +0200</pubDate>
+		<enclosure url="http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E12%20HHGTTG%20S2%20Secondary%20Phase.mp3" type="audio/mpeg" length="26792249" />
+	</item>
+	<item>
+		<link>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E13%20HHGTTG%20S3%20Tertiary%20Phase.mp3</link>
+		<guid>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E13%20HHGTTG%20S3%20Tertiary%20Phase.mp3</guid>
+		<description>S01E13 HHGTTG S3 Tertiary Phase</description>
+		<pubDate>Sun, 22 Oct 2023 18:24:44 +0200</pubDate>
+		<enclosure url="http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E13%20HHGTTG%20S3%20Tertiary%20Phase.mp3" type="audio/mpeg" length="28707268" />
+	</item>
+	<item>
+		<link>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E14%20HHGTTG%20S3%20Tertiary%20Phase.mp3</link>
+		<guid>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E14%20HHGTTG%20S3%20Tertiary%20Phase.mp3</guid>
+		<description>S01E14 HHGTTG S3 Tertiary Phase</description>
+		<pubDate>Sun, 22 Oct 2023 18:24:45 +0200</pubDate>
+		<enclosure url="http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E14%20HHGTTG%20S3%20Tertiary%20Phase.mp3" type="audio/mpeg" length="29896132" />
+	</item>
+	<item>
+		<link>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E15%20HHGTTG%20S3%20Tertiary%20Phase.mp3</link>
+		<guid>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E15%20HHGTTG%20S3%20Tertiary%20Phase.mp3</guid>
+		<description>S01E15 HHGTTG S3 Tertiary Phase</description>
+		<pubDate>Sun, 22 Oct 2023 18:24:46 +0200</pubDate>
+		<enclosure url="http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E15%20HHGTTG%20S3%20Tertiary%20Phase.mp3" type="audio/mpeg" length="34263364" />
+	</item>
+	<item>
+		<link>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E16%20HHGTTG%20S3%20Tertiary%20Phase.mp3</link>
+		<guid>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E16%20HHGTTG%20S3%20Tertiary%20Phase.mp3</guid>
+		<description>S01E16 HHGTTG S3 Tertiary Phase</description>
+		<pubDate>Sun, 22 Oct 2023 18:24:47 +0200</pubDate>
+		<enclosure url="http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E16%20HHGTTG%20S3%20Tertiary%20Phase.mp3" type="audio/mpeg" length="29896900" />
+	</item>
+	<item>
+		<link>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E17%20HHGTTG%20S3%20Tertiary%20Phase.mp3</link>
+		<guid>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E17%20HHGTTG%20S3%20Tertiary%20Phase.mp3</guid>
+		<description>S01E17 HHGTTG S3 Tertiary Phase</description>
+		<pubDate>Sun, 22 Oct 2023 18:24:47 +0200</pubDate>
+		<enclosure url="http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E17%20HHGTTG%20S3%20Tertiary%20Phase.mp3" type="audio/mpeg" length="29133892" />
+	</item>
+	<item>
+		<link>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E18%20HHGTTG%20S3%20Tertiary%20Phase.mp3</link>
+		<guid>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E18%20HHGTTG%20S3%20Tertiary%20Phase.mp3</guid>
+		<description>S01E18 HHGTTG S3 Tertiary Phase</description>
+		<pubDate>Sun, 22 Oct 2023 18:24:48 +0200</pubDate>
+		<enclosure url="http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E18%20HHGTTG%20S3%20Tertiary%20Phase.mp3" type="audio/mpeg" length="33308740" />
+	</item>
+	<item>
+		<link>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E19%20HHGTTG%20S4%20Quandary%20Phase.mp3</link>
+		<guid>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E19%20HHGTTG%20S4%20Quandary%20Phase.mp3</guid>
+		<description>S01E19 HHGTTG S4 Quandary Phase</description>
+		<pubDate>Sun, 22 Oct 2023 18:24:49 +0200</pubDate>
+		<enclosure url="http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E19%20HHGTTG%20S4%20Quandary%20Phase.mp3" type="audio/mpeg" length="31532750" />
+	</item>
+	<item>
+		<link>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E20%20HHGTTG%20S4%20Quandary%20Phase.mp3</link>
+		<guid>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E20%20HHGTTG%20S4%20Quandary%20Phase.mp3</guid>
+		<description>S01E20 HHGTTG S4 Quandary Phase</description>
+		<pubDate>Sun, 22 Oct 2023 18:24:49 +0200</pubDate>
+		<enclosure url="http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E20%20HHGTTG%20S4%20Quandary%20Phase.mp3" type="audio/mpeg" length="33366350" />
+	</item>
+	<item>
+		<link>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E21%20HHGTTG%20S4%20Quandary%20Phase.mp3</link>
+		<guid>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E21%20HHGTTG%20S4%20Quandary%20Phase.mp3</guid>
+		<description>S01E21 HHGTTG S4 Quandary Phase</description>
+		<pubDate>Sun, 22 Oct 2023 18:24:50 +0200</pubDate>
+		<enclosure url="http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E21%20HHGTTG%20S4%20Quandary%20Phase.mp3" type="audio/mpeg" length="39433550" />
+	</item>
+	<item>
+		<link>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E22%20HHGTTG%20S4%20Quandary%20Phase.mp3</link>
+		<guid>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E22%20HHGTTG%20S4%20Quandary%20Phase.mp3</guid>
+		<description>S01E22 HHGTTG S4 Quandary Phase</description>
+		<pubDate>Sun, 22 Oct 2023 18:24:51 +0200</pubDate>
+		<enclosure url="http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E22%20HHGTTG%20S4%20Quandary%20Phase.mp3" type="audio/mpeg" length="33989582" />
+	</item>
+	<item>
+		<link>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E23%20HHGTTG%20S4%20Quandary%20Phase.mp3</link>
+		<guid>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E23%20HHGTTG%20S4%20Quandary%20Phase.mp3</guid>
+		<description>S01E23 HHGTTG S4 Quandary Phase</description>
+		<pubDate>Sun, 22 Oct 2023 18:24:52 +0200</pubDate>
+		<enclosure url="http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E23%20HHGTTG%20S4%20Quandary%20Phase.mp3" type="audio/mpeg" length="35898830" />
+	</item>
+	<item>
+		<link>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E24%20HHGTTG%20S4%20Quandary%20Phase.mp3</link>
+		<guid>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E24%20HHGTTG%20S4%20Quandary%20Phase.mp3</guid>
+		<description>S01E24 HHGTTG S4 Quandary Phase</description>
+		<pubDate>Sun, 22 Oct 2023 18:24:52 +0200</pubDate>
+		<enclosure url="http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E24%20HHGTTG%20S4%20Quandary%20Phase.mp3" type="audio/mpeg" length="34222670" />
+	</item>
+	<item>
+		<link>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E25%20HHGTTG%20S5%20Quintessential%20Phas.mp3</link>
+		<guid>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E25%20HHGTTG%20S5%20Quintessential%20Phas.mp3</guid>
+		<description>S01E25 HHGTTG S5 Quintessential Phas</description>
+		<pubDate>Sun, 22 Oct 2023 18:24:53 +0200</pubDate>
+		<enclosure url="http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E25%20HHGTTG%20S5%20Quintessential%20Phas.mp3" type="audio/mpeg" length="32229924" />
+	</item>
+	<item>
+		<link>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E26%20HHGTTG%20S5%20Quintessential%20Phas.mp3</link>
+		<guid>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E26%20HHGTTG%20S5%20Quintessential%20Phas.mp3</guid>
+		<description>S01E26 HHGTTG S5 Quintessential Phas</description>
+		<pubDate>Sun, 22 Oct 2023 18:24:54 +0200</pubDate>
+		<enclosure url="http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E26%20HHGTTG%20S5%20Quintessential%20Phas.mp3" type="audio/mpeg" length="37943844" />
+	</item>
+	<item>
+		<link>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E27%20HHGTTG%20S6%20Hexagonal%20Phase%20And.mp3</link>
+		<guid>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E27%20HHGTTG%20S6%20Hexagonal%20Phase%20And.mp3</guid>
+		<description>S01E27 HHGTTG S6 Hexagonal Phase And</description>
+		<pubDate>Sun, 22 Oct 2023 18:24:55 +0200</pubDate>
+		<enclosure url="http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E27%20HHGTTG%20S6%20Hexagonal%20Phase%20And.mp3" type="audio/mpeg" length="37680491" />
+	</item>
+	<item>
+		<link>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E28%20HHGTTG%20S6%20Hexagonal%20Phase%20And.mp3</link>
+		<guid>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E28%20HHGTTG%20S6%20Hexagonal%20Phase%20And.mp3</guid>
+		<description>S01E28 HHGTTG S6 Hexagonal Phase And</description>
+		<pubDate>Sun, 22 Oct 2023 18:24:55 +0200</pubDate>
+		<enclosure url="http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E28%20HHGTTG%20S6%20Hexagonal%20Phase%20And.mp3" type="audio/mpeg" length="35031884" />
+	</item>
+	<item>
+		<link>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E29%20HHGTTG%20S6%20Hexagonal%20Phase%20And.mp3</link>
+		<guid>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E29%20HHGTTG%20S6%20Hexagonal%20Phase%20And.mp3</guid>
+		<description>S01E29 HHGTTG S6 Hexagonal Phase And</description>
+		<pubDate>Sun, 22 Oct 2023 18:24:56 +0200</pubDate>
+		<enclosure url="http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E29%20HHGTTG%20S6%20Hexagonal%20Phase%20And.mp3" type="audio/mpeg" length="35070336" />
+	</item>
+	<item>
+		<link>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E30%20HHGTTG%20S6%20Hexagonal%20Phase%20And.mp3</link>
+		<guid>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E30%20HHGTTG%20S6%20Hexagonal%20Phase%20And.mp3</guid>
+		<description>S01E30 HHGTTG S6 Hexagonal Phase And</description>
+		<pubDate>Sun, 22 Oct 2023 18:24:57 +0200</pubDate>
+		<enclosure url="http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E30%20HHGTTG%20S6%20Hexagonal%20Phase%20And.mp3" type="audio/mpeg" length="34770241" />
+	</item>
+	<item>
+		<link>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E31%20HHGTTG%20S6%20Hexagonal%20Phase%20And.mp3</link>
+		<guid>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E31%20HHGTTG%20S6%20Hexagonal%20Phase%20And.mp3</guid>
+		<description>S01E31 HHGTTG S6 Hexagonal Phase And</description>
+		<pubDate>Sun, 22 Oct 2023 18:24:58 +0200</pubDate>
+		<enclosure url="http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E31%20HHGTTG%20S6%20Hexagonal%20Phase%20And.mp3" type="audio/mpeg" length="34462623" />
+	</item>
+	<item>
+		<link>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E32%20HHGTTG%20S6%20Hexagonal%20Phase%20And.mp3</link>
+		<guid>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E32%20HHGTTG%20S6%20Hexagonal%20Phase%20And.mp3</guid>
+		<description>S01E32 HHGTTG S6 Hexagonal Phase And</description>
+		<pubDate>Sun, 22 Oct 2023 18:24:58 +0200</pubDate>
+		<enclosure url="http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/S01E32%20HHGTTG%20S6%20Hexagonal%20Phase%20And.mp3" type="audio/mpeg" length="33817712" />
+	</item>
+	<item>
+		<link>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/The%20Eagles%20Journey%20Of%20The%20Sorcerer%20%5BThe%20Hitchhi.mp3</link>
+		<guid>http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/The%20Eagles%20Journey%20Of%20The%20Sorcerer%20%5BThe%20Hitchhi.mp3</guid>
+		<description>The Eagles Journey Of The Sorcerer %5BThe Hitchhi</description>
+		<pubDate>Sun, 22 Oct 2023 18:24:59 +0200</pubDate>
+		<enclosure url="http://archive.org/download/s01e00hhgttgdouglasadamsbbcboo/The%20Eagles%20Journey%20Of%20The%20Sorcerer%20%5BThe%20Hitchhi.mp3" type="audio/mpeg" length="6510735" />
+	</item>
+</channel>
+</rss>
