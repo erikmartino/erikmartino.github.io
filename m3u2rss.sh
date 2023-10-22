@@ -1,11 +1,11 @@
 #!/bin/bash
 FILE="$1"
-
+name="HHGTTG - $(date)"
 cat <<EOF
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
- <title>HHGTTG</title>
+ <title>${name}</title>
  <description>HHGTTG</description>
  <language>en-us</language>
  <copyright>bbc</copyright>
@@ -13,7 +13,7 @@ cat <<EOF
  <image>
    <url>https://erikmartino.github.io/favicon.png</url>
    <link>https://erikmartino.github.io/</link>
-   <title>HHGTTG</title>
+   <title>${name}</title>
  </image>
  <generator>m3u2rss.sh</generator>
  <ttl>263520</ttl>
